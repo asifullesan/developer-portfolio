@@ -60,3 +60,44 @@ h3{
     margin-left: 12%;
     padding-right: 7%;
 }
+
+.section-item{
+    display: flex;
+    background-image: url(./img/exp-bg.png);
+    background-repeat: no-repeat;
+    margin-top: 150px;
+}
+.exerience-item{
+    width: 50%;
+    margin-top: -100px;
+    box-shadow: 10px 10px 20px black;
+}
+
+.full-stack{
+    margin-left: 5%;
+    margin-right: 0%;
+    padding-left: 1%;
+    border-left: 8px solid;
+    border-image: linear-gradient(red, orange);
+    border-image-slice: 1;
+   
+
+    
+}
+
+.baby-web{
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+    border-left: 8px solid black;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+#font-orange{
+    color: orange;
+}
+
+#text-size{
+    font-size: 40px;
+}
